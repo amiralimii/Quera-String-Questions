@@ -1,7 +1,7 @@
 # Quera String Questions
 This section contains solutions to string-related programming questions from Quera. Each solution is organized by question number and includes a brief description of the problem.
 
-## Question 1 — [Question Title]
+## Question 1
 
 ### Description:
 This problem asks you to search through five given strings and find the strings that contain the substring MOLANA or HAFEZ. The numbers of matching strings must be printed in ascending order. If none of the strings contain either substring, NOT FOUND! should be printed.
